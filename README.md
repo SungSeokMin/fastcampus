@@ -2,6 +2,10 @@
 
 [Github 강의노트](https://github.com/SungSeokMin/fastcampus_frontend)
 
+![강의사진](https://github.com/SungSeokMin/fastcampus/assets/72539723/35067a7c-e999-4d01-93dc-1737f9c46b4b)
+![강의사진](https://github.com/SungSeokMin/fastcampus/assets/72539723/e92dd55d-cb30-4c29-9e0c-b5d2948fd15b)
+![강의사진](https://github.com/SungSeokMin/fastcampus/assets/72539723/55ed7c66-df8d-4e65-8826-ff111553e761)
+
 프론트엔드 개발자로 일을 한 지 벌써 2년이라는 시간이 흘렀다. 처음 입사해서 사수도 없이 A부터 Z까지 모든 기술 스펙을 내 마음대로 할 수 있었고 원하는 라이브러리 또한 내 마음대로 쓸 수 있었다.  
 그때까지는 좋았지.. 프로젝트 개발을 끝내고 배포를 진행하는데 이게 무슨 일이야? 난생처음 보던 빨간 에러들이 나를 반기고 있네?  
 개발을 마무리 했다고 좋아할 게 아니라 에러가 많다고 혼자 채찍질을 하고 있는 내 모습이 너무 싫었다.  
